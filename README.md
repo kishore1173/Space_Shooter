@@ -38,8 +38,6 @@
 - More enemies appear as score increases.
 - The game gets progressively harder.
 
-## ⚖️ License
-This project is licensed under the **MIT License**.
 
 ## 👨‍💻 Developer
 **Kishore M**
